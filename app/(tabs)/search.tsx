@@ -14,12 +14,13 @@ import { fetchMovies } from "@/services/api";
 import { useRouter } from "expo-router";
 import { icons } from "@/constants/icons";
 import SearchBar from "@/components/SearchBar";
+import { updateSearchCount } from "@/services/appwrite";
 
 const search = () => {
   const [searchQuery, setSearchQuery] = useState("");
 
   const {
-    data: movies,
+    data: movies = [],
     loading,
     error,
     refetch: laodMovies,
@@ -30,6 +31,9 @@ const search = () => {
     const timeoutId = setTimeout(async () => {
       if (searchQuery.trim()) {
         await laodMovies();
+        if (movies?.length > 0 && movies?.[0]) {
+          await updateSearchCount(searchQuery, movies[0]);
+        }
       } else {
         reset();
       }
