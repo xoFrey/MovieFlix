@@ -36,7 +36,7 @@ export default function Index() {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{
           minHeight: "100%",
-          paddingBottom: 10, // Corrected this line
+          paddingBottom: 10,
         }}>
         <Image
           source={icons.logo}
@@ -53,6 +53,8 @@ export default function Index() {
         ) : (
           <View className='flex-1 mt-5'>
             <SearchBar
+              value=''
+              onChangeText={() => {}}
               onPress={() => router.push("/search")}
               placeholder='Search for a Movie'
             />
