@@ -75,7 +75,7 @@ export default function Index() {
               <FlatList
                 horizontal
                 showsHorizontalScrollIndicator={false}
-                ItemSeparatorComponent={() => <View className='w-4' />}
+                ItemSeparatorComponent={() => <View className='w-8' />}
                 className='mb-4 mt-3'
                 data={trendingMovies}
                 renderItem={({ item, index }) => (
