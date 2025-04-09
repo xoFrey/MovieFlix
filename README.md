@@ -56,8 +56,8 @@
 
 
 <h2><samp>Live site</samp></h2>
-<p>Once visiting the Live Page please ensure to put on Mobile Mode: Right Click, Inspect, CTRL+SHIFT+M to enable device toolbar </p>
-<p>This APP is only for Mobile devices. </p>
+<p><samp>Once visiting the Live Page please ensure to put on Mobile Mode: Right Click, Inspect, CTRL+SHIFT+M to enable device toolbar</samp> </p>
+<p><samp>This APP is only for Mobile devices.</samp> </p>
 <li><samp><a href="https://movieflix--200zop0ur5.expo.app">Live Page</a></samp></li>
 
 
