@@ -2,7 +2,7 @@
 <p align="center"> 
   <a href="https://github.com/xoFrey" target="_blank"> <img width="40" align="center" src="./assets/images/github.png"/></a>
   <a href="https://movieflix--200zop0ur5.expo.app" target="_blank"> <img width="45" align="center" src="./assets/images/livepage.png"/></a>
-  <a href="https://www.linkedin.com/in/izel-acar-0572332ba/" target="_blank"> <img width="40" align="center" src="./assets/images/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/izelacar/" target="_blank"> <img width="40" align="center" src="./assets/images/linkedin.png"/></a>
 </p>
 
 
