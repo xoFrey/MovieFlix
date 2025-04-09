@@ -64,5 +64,5 @@
 <h2><samp>Screenshot</samp></h2>
 
 <p align="center">
-<img width=300 src="./assets/images/Screenshot1.jpg"/> <img width=300 src="./assets/images/Screenshot3.jpg"/> <img width=300 src="./assets/images/Screenshot2.jpg"/> 
+<img width=250 src="./assets/images/Screenshot1.jpg"/> <img width=250 src="./assets/images/Screenshot3.jpg"/> <img width=250 src="./assets/images/Screenshot2.jpg"/> 
 </p>
