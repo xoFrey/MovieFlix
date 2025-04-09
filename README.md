@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Silent Moon</samp> </h1>
+<h1 align="center"><samp>Movie APP</samp> </h1>
 <p align="center"> 
   <a href="https://github.com/xoFrey" target="_blank"> <img width="40" align="center" src="./assets/images/github.png"/></a>
   <a href="https://silentmoon.superprojekte.de" target="_blank"> <img width="45" align="center" src="./assets/images/livepage.png"/></a>
